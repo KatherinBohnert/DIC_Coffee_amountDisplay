@@ -25,6 +25,7 @@ body {
 .menu_section {
     background: url("./sample_menu_bg.jpg") no-repeat bottom;
     background-attachment: fixed;
+    background-size: cover;
 }
 
 .menu_title {
